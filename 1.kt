@@ -1,7 +1,7 @@
 fun main() {
-    val start = 100
-    val end = 999
-    for (i in start..end) {
+//    val start = 100
+    //   val end = 999
+    for (i in 2..50) {
         print("$i,")
        var l = true
        for (j in 2 until i) {
